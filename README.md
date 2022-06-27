@@ -1,2 +1,2 @@
-# java_study
-java study 202206
+# study
+study 202206
